@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ehaviovi.github.io/Avl/sitemap_index.txt
+Sitemap: https://ehaviovi.github.io/Hwi/sitemap_index.txt
+Sitemap: https://ehaviovi.github.io/IXm/sitemap_index.txt
+Sitemap: https://ehaviovi.github.io/qDY/sitemap_index.txt
